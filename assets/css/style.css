@@ -546,7 +546,10 @@ header {
     flex-direction: column;
     align-items: flex-start;
   }
-
+.home-img {
+    width: 175px;
+    height: 180px;
+}
   .toggle-button {
     display: flex;
   }
@@ -622,7 +625,7 @@ header {
     padding-top: 5rem;
   }
   .home-img {
-    width: 140px;
+    width: 138px;
     height: 140px;
   }
   .home-img img {
