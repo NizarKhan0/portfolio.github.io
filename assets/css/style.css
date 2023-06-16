@@ -13,10 +13,10 @@
   --main-color: #068bd8;
   --body-color: #090a1a;
   --container-color: #171b3c;
-  --heading-color: #222231;
+  --heading-color: #e8e7e7;
   --box-color: #0d0f26;
   --bg-color: #fff;
-  --sub-color: #222231;
+  --sub-color: #e8e7e7;
 }
 body {
   color: var(--bg-color);
